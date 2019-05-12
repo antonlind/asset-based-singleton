@@ -1,1 +1,1 @@
-# asset-based-singleton
+Abstract base class for creating a singleton that is connected with a project asset (ScriptableObject).

@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Folder meta files (or metas for files without extensions)
+*.meta
+!*.*.meta
