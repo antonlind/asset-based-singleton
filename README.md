@@ -1,1 +1,1 @@
-Abstract base class for creating a singleton that is connected with a project asset (ScriptableObject).
+Abstract base class for creating singletons that maps 1-1 to project assets (ScriptableObjects).
